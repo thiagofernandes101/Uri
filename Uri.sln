@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bean.2791", "src\Bean.2791\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess.2787", "src\Chess.2787\Chess.2787.csproj", "{DF7A98CB-7D59-4F07-B633-BAF09B6DE3DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output8.2754", "src\Output8.2754\Output8.2754.csproj", "{5D25EF06-1452-4A9A-A539-BDC18198F610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Output8.2754", "src\Output8.2754\Output8.2754.csproj", "{5D25EF06-1452-4A9A-A539-BDC18198F610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceIJ1.1095", "src\SequenceIJ1.1095\SequenceIJ1.1095.csproj", "{E302BEC2-6B1B-4B77-8399-91B058C895A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceIJ1.1095", "src\SequenceIJ1.1095\SequenceIJ1.1095.csproj", "{E302BEC2-6B1B-4B77-8399-91B058C895A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixOddNumbers.1070", "src\SixOddNumbers.1070\SixOddNumbers.1070.csproj", "{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E302BEC2-6B1B-4B77-8399-91B058C895A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E302BEC2-6B1B-4B77-8399-91B058C895A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E302BEC2-6B1B-4B77-8399-91B058C895A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
