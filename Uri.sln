@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceIJ1.1095", "src\Seq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SixOddNumbers.1070", "src\SixOddNumbers.1070\SixOddNumbers.1070.csproj", "{FC9DC9BC-8775-4C5E-9CDE-43F215CFD577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolFloor.2786", "src\SchoolFloor.2786\SchoolFloor.2786.csproj", "{39B0158E-30E5-45B5-A0F9-FFF05B16655D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolFloor.2786", "src\SchoolFloor.2786\SchoolFloor.2786.csproj", "{39B0158E-30E5-45B5-A0F9-FFF05B16655D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PepeIAlreadyTookTheCandle.2152", "src\PepeIAlreadyTookTheCandle.2152\PepeIAlreadyTookTheCandle.2152.csproj", "{04179E59-7781-4513-A101-B58BEF4B26F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PepeIAlreadyTookTheCandle.2152", "src\PepeIAlreadyTookTheCandle.2152\PepeIAlreadyTookTheCandle.2152.csproj", "{04179E59-7781-4513-A101-B58BEF4B26F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddPositiveAndNegative.1066", "src\EvenOddPositiveAndNegative.1066\EvenOddPositiveAndNegative.1066.csproj", "{1BF30F2A-3EAA-4493-B8DA-B8D86C396FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOddPositiveAndNegative.1066", "src\EvenOddPositiveAndNegative.1066\EvenOddPositiveAndNegative.1066.csproj", "{1BF30F2A-3EAA-4493-B8DA-B8D86C396FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event.2172", "src\Event.2172\Event.2172.csproj", "{52FD50A5-783C-4114-BE69-085FA92DB59B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1BF30F2A-3EAA-4493-B8DA-B8D86C396FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF30F2A-3EAA-4493-B8DA-B8D86C396FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF30F2A-3EAA-4493-B8DA-B8D86C396FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FD50A5-783C-4114-BE69-085FA92DB59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FD50A5-783C-4114-BE69-085FA92DB59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FD50A5-783C-4114-BE69-085FA92DB59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FD50A5-783C-4114-BE69-085FA92DB59B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
