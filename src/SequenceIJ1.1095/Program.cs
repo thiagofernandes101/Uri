@@ -6,7 +6,13 @@ namespace SequenceIJ1._1095
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 1;
+            
+            for (int j = 60; j >= 0; j -= 5)
+            {
+                Console.WriteLine($"I={i} J={j}");
+                i += 3;
+            }
         }
     }
 }
