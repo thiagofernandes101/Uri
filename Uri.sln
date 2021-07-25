@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedPassword.1114", "src\F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfConsecutiveOddNumbersII.1099", "src\SumOfConsecutiveOddNumbersII.1099\SumOfConsecutiveOddNumbersII.1099.csproj", "{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrant.1115", "src\Quadrant.1115\Quadrant.1115.csproj", "{5A2056B1-0533-4E05-8203-3EC66B425FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
