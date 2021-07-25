@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoHoHo.1759", "src\HoHoHo.1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedPassword.1114", "src\FixedPassword.1114\FixedPassword.1114.csproj", "{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfConsecutiveOddNumbersII.1099", "src\SumOfConsecutiveOddNumbersII.1099\SumOfConsecutiveOddNumbersII.1099.csproj", "{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
