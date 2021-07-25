@@ -24,11 +24,11 @@ namespace EvenOddPositiveAndNegative._1066
 
                 if (value % 2 == 0)
                 {
-                    numberOfOddValues++;
+                    numberOfEvenValues++;
                 }
                 else
                 {
-                    numberOfEvenValues++;
+                    numberOfOddValues++;
                 }
 
                 if (value > 0)
@@ -41,8 +41,8 @@ namespace EvenOddPositiveAndNegative._1066
                 }
             }
 
-            Console.WriteLine($"{numberOfOddValues} valor(es) par(es)");
-            Console.WriteLine($"{numberOfEvenValues} valor(es) impar(es)");
+            Console.WriteLine($"{numberOfEvenValues} valor(es) par(es)");
+            Console.WriteLine($"{numberOfOddValues} valor(es) impar(es)");
             Console.WriteLine($"{numberOfPositiveValues} valor(es) positivo(s)");
             Console.WriteLine($"{numberOfNegativeValues} valor(es) negativo(s)");
         }
