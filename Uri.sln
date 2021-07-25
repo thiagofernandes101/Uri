@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenBetweenFiveNumbers.1065
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable.1078", "src\MultiplicationTable.1078\MultiplicationTable.1078.csproj", "{7691B080-24CC-47D8-8EC2-A08E2FF822F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectAnswer.3302", "src\CorrectAnswer.3302\CorrectAnswer.3302.csproj", "{20D7EB85-3534-4414-A255-003CD671C3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7691B080-24CC-47D8-8EC2-A08E2FF822F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7691B080-24CC-47D8-8EC2-A08E2FF822F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7691B080-24CC-47D8-8EC2-A08E2FF822F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D7EB85-3534-4414-A255-003CD671C3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D7EB85-3534-4414-A255-003CD671C3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D7EB85-3534-4414-A255-003CD671C3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D7EB85-3534-4414-A255-003CD671C3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
