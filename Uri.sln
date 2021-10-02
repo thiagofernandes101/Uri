@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfConsecutiveOddNumbersI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrant.1115", "src\Quadrant.1115\Quadrant.1115.csproj", "{5A2056B1-0533-4E05-8203-3EC66B425FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricalOutlet.1930", "src\ElectricalOutlet.1930\ElectricalOutlet.1930.csproj", "{0585A3D6-8F37-4222-9414-612DFCC78422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricalOutlet.1930", "src\ElectricalOutlet.1930\ElectricalOutlet.1930.csproj", "{0585A3D6-8F37-4222-9414-612DFCC78422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBattleOfTheFiveArmies.3147", "src\TheBattleOfTheFiveArmies.3147\TheBattleOfTheFiveArmies.3147.csproj", "{1736D04E-4874-4FCB-B422-D8FA6D2ED013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{0585A3D6-8F37-4222-9414-612DFCC78422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0585A3D6-8F37-4222-9414-612DFCC78422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0585A3D6-8F37-4222-9414-612DFCC78422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1736D04E-4874-4FCB-B422-D8FA6D2ED013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1736D04E-4874-4FCB-B422-D8FA6D2ED013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1736D04E-4874-4FCB-B422-D8FA6D2ED013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1736D04E-4874-4FCB-B422-D8FA6D2ED013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
