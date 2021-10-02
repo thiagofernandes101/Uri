@@ -25,23 +25,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Output1.2747", "src\Output1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion.1019", "src\TimeConversion.1019\TimeConversion.1019.csproj", "{E5326B66-B4EC-4D47-B694-1A367E20122A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenBetweenFiveNumbers.1065", "src\EvenBetweenFiveNumbers.1065\EvenBetweenFiveNumbers.1065.csproj", "{60DB5CF8-17E2-4719-9D9B-A8AE7C3FF182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenBetweenFiveNumbers.1065", "src\EvenBetweenFiveNumbers.1065\EvenBetweenFiveNumbers.1065.csproj", "{60DB5CF8-17E2-4719-9D9B-A8AE7C3FF182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable.1078", "src\MultiplicationTable.1078\MultiplicationTable.1078.csproj", "{7691B080-24CC-47D8-8EC2-A08E2FF822F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable.1078", "src\MultiplicationTable.1078\MultiplicationTable.1078.csproj", "{7691B080-24CC-47D8-8EC2-A08E2FF822F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectAnswer.3302", "src\CorrectAnswer.3302\CorrectAnswer.3302.csproj", "{20D7EB85-3534-4414-A255-003CD671C3AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrectAnswer.3302", "src\CorrectAnswer.3302\CorrectAnswer.3302.csproj", "{20D7EB85-3534-4414-A255-003CD671C3AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenSquare.1073", "src\EvenSquare.1073\EvenSquare.1073.csproj", "{189F1530-D282-4F46-AED4-47A89DDE8FD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenSquare.1073", "src\EvenSquare.1073\EvenSquare.1073.csproj", "{189F1530-D282-4F46-AED4-47A89DDE8FD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobConduit.1589", "src\BobConduit.1589\BobConduit.1589.csproj", "{09880126-1429-4704-B6B5-53FCE72D8443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BobConduit.1589", "src\BobConduit.1589\BobConduit.1589.csproj", "{09880126-1429-4704-B6B5-53FCE72D8443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoHoHo.1759", "src\HoHoHo.1759\HoHoHo.1759.csproj", "{2312E57D-C3D0-4B12-B3C8-B668DA1FAB6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HoHoHo.1759", "src\HoHoHo.1759\HoHoHo.1759.csproj", "{2312E57D-C3D0-4B12-B3C8-B668DA1FAB6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedPassword.1114", "src\FixedPassword.1114\FixedPassword.1114.csproj", "{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixedPassword.1114", "src\FixedPassword.1114\FixedPassword.1114.csproj", "{33750CEF-8B09-4D6B-85A8-D1ABEAD9F204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfConsecutiveOddNumbersII.1099", "src\SumOfConsecutiveOddNumbersII.1099\SumOfConsecutiveOddNumbersII.1099.csproj", "{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfConsecutiveOddNumbersII.1099", "src\SumOfConsecutiveOddNumbersII.1099\SumOfConsecutiveOddNumbersII.1099.csproj", "{C083FD3C-F4AD-4209-94ED-8DDACF1A7C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrant.1115", "src\Quadrant.1115\Quadrant.1115.csproj", "{5A2056B1-0533-4E05-8203-3EC66B425FAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrant.1115", "src\Quadrant.1115\Quadrant.1115.csproj", "{5A2056B1-0533-4E05-8203-3EC66B425FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricalOutlet.1930", "src\ElectricalOutlet.1930\ElectricalOutlet.1930.csproj", "{0585A3D6-8F37-4222-9414-612DFCC78422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2056B1-0533-4E05-8203-3EC66B425FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0585A3D6-8F37-4222-9414-612DFCC78422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0585A3D6-8F37-4222-9414-612DFCC78422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0585A3D6-8F37-4222-9414-612DFCC78422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0585A3D6-8F37-4222-9414-612DFCC78422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
