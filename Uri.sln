@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricalOutlet.1930", "sr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBattleOfTheFiveArmies.3147", "src\TheBattleOfTheFiveArmies.3147\TheBattleOfTheFiveArmies.3147.csproj", "{1736D04E-4874-4FCB-B422-D8FA6D2ED013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output2.2748", "src\Output2.2748\Output2.2748.csproj", "{C93A9EBF-18DE-469D-8545-07116B73DCF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Output2.2748", "src\Output2.2748\Output2.2748.csproj", "{C93A9EBF-18DE-469D-8545-07116B73DCF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceIJ3.1097", "src\SequenceIJ3.1097\SequenceIJ3.1097.csproj", "{4DDBCD05-5D46-46E0-A4DE-595E074539D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceIJ3.1097", "src\SequenceIJ3.1097\SequenceIJ3.1097.csproj", "{4DDBCD05-5D46-46E0-A4DE-595E074539D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPFInputOutput.2763", "src\CPFInputOutput.2763\CPFInputOutput.2763.csproj", "{AB0D2F33-765D-4000-AD66-43534387103B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{4DDBCD05-5D46-46E0-A4DE-595E074539D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDBCD05-5D46-46E0-A4DE-595E074539D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDBCD05-5D46-46E0-A4DE-595E074539D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0D2F33-765D-4000-AD66-43534387103B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0D2F33-765D-4000-AD66-43534387103B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0D2F33-765D-4000-AD66-43534387103B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0D2F33-765D-4000-AD66-43534387103B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
