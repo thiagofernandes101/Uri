@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceIJ3.1097", "src\Seq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPFInputOutput.2763", "src\CPFInputOutput.2763\CPFInputOutput.2763.csproj", "{AB0D2F33-765D-4000-AD66-43534387103B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnjoyTheOffer.2896", "src\EnjoyTheOffer.2896\EnjoyTheOffer.2896.csproj", "{4F20813D-B451-49D1-9755-81B5FE2C8C53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{AB0D2F33-765D-4000-AD66-43534387103B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB0D2F33-765D-4000-AD66-43534387103B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB0D2F33-765D-4000-AD66-43534387103B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F20813D-B451-49D1-9755-81B5FE2C8C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F20813D-B451-49D1-9755-81B5FE2C8C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F20813D-B451-49D1-9755-81B5FE2C8C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F20813D-B451-49D1-9755-81B5FE2C8C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
